@@ -2,7 +2,7 @@
 ...Todo App description
 
 # Introduction
-this is User-Interface of Todo App, using ReactJS
+this is User-Interface of Todo App, using ReactJS Typescript Vite
 
 ## How to use
 
@@ -31,4 +31,4 @@ Build:
 yarn build
 ```
 Note:
-When update status task, please double click task you want update.
+When update status task, please double click task you want to update.
